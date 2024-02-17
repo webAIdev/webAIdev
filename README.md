@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=My+name+is+Petter+Pan;I+am+a+Full+Stack+Web+PythonAI+Developer;Over+6+years+of+Experience+in+Web." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=My+name+is+Petter+Pan;I+am+a+Python,AI+Expert;and+Full+Stack+Web+Developer;Over+6+years+of+Experience+in+Web." alt="Typing SVG" /></a>
 </div>
 
 - 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd,PHP,Express.js, Node.js, MongoDB, Python AI, Yolo, Keras,,,,**
