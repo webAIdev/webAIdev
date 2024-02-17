@@ -5,7 +5,6 @@
 - 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd,PHP,Express.js, Node.js, MongoDB, Python AI, Yolo, Keras,,,,**
 
 - 📫 How to reach me **
-- jennifer.beals.1003@gmail.com
 -  WhatsAPP: +1 (806) 660-1464
 -  Telegram: @great5k
 -  skype: @great5k
