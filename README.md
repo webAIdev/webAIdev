@@ -5,9 +5,9 @@
 - 💬 Ask me about **Anything ReactJS, NextJs, JavaScript, TypeScript, FrontEnd,PHP,Express.js, Node.js, MongoDB, Python AI, Yolo, Keras,,,,**
 
 - 📫 How to reach me **
--  WhatsAPP: +1 (806) 660-1464
--  Telegram: @great5k
--  skype: @great5k
+-  `WhatsAPP`: `+1 (806) 660-1464`
+-  `Telegram`: `@great5k`
+-  `skype`: `@great5k`
 - **
 
 ## Prefered Technicals
